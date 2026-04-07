@@ -32,7 +32,7 @@
 -- SQL
 SELECT * FROM table_name LIMIT 10 OFFSET 20;
 
--- Question 3. : What is a Common Table Expression (CTE) in SQL, and what are its main benefits? Provide a simple SQL example demonstrating its usage.
+-- Question 4. : What is a Common Table Expression (CTE) in SQL, and what are its main benefits? Provide a simple SQL example demonstrating its usage.
 
 -- Answer 
 -- A CTE is a temporary result set defined using the WITH clause that you can reference within a SELECT, INSERT, UPDATE, or DELETE statement.
